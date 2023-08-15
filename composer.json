@@ -1,9 +1,10 @@
 {
-    "name": "batte/batty",
+    "name": "batty/batte",
     "description": "batty测试包",
-    "type": "library",
-    "license": "MIT",
-    "require": {
-        "php": ">=7.1"
-    }
+    "autoload": {
+        "psr-4": {
+            "Batty\\Batte\\": "src/"
+        }
+    },
+    "require": {}
 }
