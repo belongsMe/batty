@@ -1,0 +1,7 @@
+{
+    "name": "batte/batty",
+    "description": "batty测试包",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
