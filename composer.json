@@ -3,5 +3,7 @@
     "description": "batty测试包",
     "type": "library",
     "license": "MIT",
-    "require": {}
+    "require": {
+        "php": ">=7.1"
+    }
 }
