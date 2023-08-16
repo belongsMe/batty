@@ -1,5 +1,5 @@
 <?php
-namespace batty\batte;
+namespace Batty\Batte;
 
 class Client{
 
