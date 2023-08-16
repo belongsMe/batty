@@ -4,7 +4,7 @@ namespace batty;
 class Batte{
 
     public function test(){
-        return 1234;
+        return 12345;
     }
 
 }
