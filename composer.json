@@ -6,5 +6,6 @@
             "Batty\\Batte\\": "src/"
         }
     },
+    "license": "MIT",
     "require": {}
 }
