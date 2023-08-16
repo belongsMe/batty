@@ -1,11 +1,11 @@
 {
     "name": "batty/batte",
-    "description": "batty测试包",
+    "description": "batty新版",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Batty\\Batte\\": "src/"
         }
     },
-    "license": "MIT",
     "require": {}
 }
