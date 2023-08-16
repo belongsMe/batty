@@ -1,5 +1,5 @@
 <?php
-namespace batty;
+namespace batty\batte;
 
 class Batte{
 
